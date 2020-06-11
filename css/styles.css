@@ -134,8 +134,18 @@ p{
 .cta-heading{
     font-family: "Montserrat";
     font-weight: 900;
-    font-size: 3.5rem;
+    font-size: 3rem;
     line-height: 1.5;
+}
+/* Footer Section */
+#footer{
+    padding: 4% 15%;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.social-icon{
+    margin:20px 10px;
 }
 
 @media (max-width:1028px){

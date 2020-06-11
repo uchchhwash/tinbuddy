@@ -71,9 +71,12 @@ p{
 /* Title */
 #title .container-fluid{
     padding:3% 15% 7%;
-    text-align: left;
+    text-align: center;
 }
 
+.title-section-btn{
+    text-align: left;
+}
 /* Title Image */
 .title-image{
     width:60%;
@@ -165,5 +168,11 @@ p{
     .title-image{
         position: static;
         transform: rotate(0);
+    }
+    .title-section-btn{
+        text-align: center;
+    }
+    .big-heading{
+        text-align: center;
     }
 }
